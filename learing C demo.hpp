@@ -9,5 +9,7 @@
 #define learing_C_demo_hpp
 
 #include <stdio.h>
+#include <iostream>
+
 
 #endif /* learing_C_demo_hpp */
